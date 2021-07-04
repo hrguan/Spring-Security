@@ -1,7 +1,5 @@
 # Spring-Security
 
-# Web-Customer-Tracker
-
 
 ![Image](https://res.cloudinary.com/dql5gkbx4/image/upload/v1624749337/samples/overview2_smc5br.png)
 ![Image](https://res.cloudinary.com/dql5gkbx4/image/upload/v1624753195/samples/logout_mlp2lr.png)
